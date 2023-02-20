@@ -40,7 +40,7 @@ class Server:
         return self.__indexed_dataset
 
     def get_hyper_index(self, index: int = None, page_size: int = 10) -> Dict:
-        """Takes 2 args and returns a dictionary with the following key-value pairs:
+        """Takes 2 args and returns a dict with the following key-value pairs:
         index: idx of the first item in the current page
         next_index: the next idx to query with.
         The idx of the first item after the last item on the current page.
