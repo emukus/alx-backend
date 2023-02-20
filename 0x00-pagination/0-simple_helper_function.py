@@ -1,4 +1,4 @@
-#!/usr/bin/python3
+#!/usr/bin/env python3
 """Takes two int aguments and returns a tuple of size two
 containing a start and end index corresponding to the range of indexes"""
 
