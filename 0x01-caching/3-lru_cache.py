@@ -1,7 +1,6 @@
 #!/usr/bin/env python3
 """LRU Caching"""
 
-from lib2to3.pgen2.token import BACKQUOTE
 from typing import OrderedDict
 
 BaseCaching = __import__('base_caching').BaseCaching
