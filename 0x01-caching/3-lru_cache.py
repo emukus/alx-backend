@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""LRU Caching"""
+"""Least Recently Used(LRU) Caching"""
 
 from typing import OrderedDict
 
