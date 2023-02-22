@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""FIFO caching"""
+"""First In First Out(FIFO) caching"""
 
 BaseCaching = __import__('base_caching').BaseCaching
 
